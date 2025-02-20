@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently dedicated to enhancing my GitHub profile.
+I am continuously enhancing my GitHub profile.
 To achieve excellence, I'm actively optimizing existing repositories while also developing and publishing new ones.
 Your feedback on these endeavors are truly appreciated.
 
